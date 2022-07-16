@@ -3,7 +3,7 @@
 <h2 align="Center">About me</h2>
 
     "- 💻 | Trainee | Back-end | Software Developer |"
-		"- ⚡ Quick bio:":                    "I am an adict to music classic - Food Lover - Gamer - Anime Lover - Coder - Programmer - Cat Lover- Book Lover",
+    "- ⚡ Quick bio:":                    "I am an adict to music classic - Food Lover - Gamer - Anime Lover - Coder - Programmer - Cat Lover- Book Lover",
     "- 🔭 I’m currently working on":      "SisteCredito as a Trainee Software Developer ",
     "- 🌱 I’m currently learning":        "C#, .NET Core, SQL, Creation of API's, Data Bases (Tech stack from my company) --- Sharpening my Back-End Skills for the (Personal goal)",
     "- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",

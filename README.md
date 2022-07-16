@@ -1,6 +1,5 @@
-![head.png](https://user-images.githubusercontent.com/70564524/179371994-24ce14e7-4b36-4c37-b7ae-2ecf0f7e11aa.png)
 # Hi there 👋 i'm Laura Valentina Bernate
-
+![head.png](https://user-images.githubusercontent.com/70564524/179371994-24ce14e7-4b36-4c37-b7ae-2ecf0f7e11aa.png)
 <h2 align="Center">About me</h2>
 
     "- 💻 | Trainee | Back-end | Software Developer |"

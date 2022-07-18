@@ -13,7 +13,6 @@
 - 👯 I’m looking to collaborate with other Developers. :wink:
 - 🌱 I’m currently learning C#, .NET Core, SQL, Creation of API's, Data Bases.
 - 🤔 I’m looking for help with anything related to what I am currently learning 😅
-- 📬 How to reach me: [Let's get in touch!][linkedin]
 - 🧗 I try to: Go beyond and push the boundaries!
 - ⚡ Fun fact: Like classic music, Gamer, Coffe lover.
 <br>

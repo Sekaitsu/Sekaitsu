@@ -42,3 +42,4 @@
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Laura Valentina Bernate Gordillo's YouTube Channel" height="30" width="30">
   </a>
 </p>
+</div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />

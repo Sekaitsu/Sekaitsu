@@ -1,8 +1,7 @@
 # Hi there 👋 i'm Laura Valentina Bernate
 
-<h2 align="Left">About me</h2>
 <br>
-
+<h2 align="Left">About me</h2>
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### I am a Software Engineer;
@@ -16,7 +15,6 @@
 - 🧗 I try to: Go beyond and push the boundaries!
 - ⚡ Fun fact: Like classic music, Gamer, Coffe lover.
 <br>
-
 
 ## Activity
 <div align="center">

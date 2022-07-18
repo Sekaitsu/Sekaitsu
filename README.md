@@ -28,3 +28,19 @@
 	</a>
 	<br>
 </div>
+
+<h2 align="Center">You can reach me at</h2>
+
+<p align="Center">
+  <a href="https://www.linkedin.com/in/laurabernategordillo/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Laura Valentina Bernate Gordillo's LinkedIn Profile" height="30" width="30">
+  </a>
+
+  <a href="https://es.stackoverflow.com/users/190330/sekaitsu?tab=profile">
+    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Laura Valentina Bernate Gordillo's Stack Overflow Profile" height="30" width="30">
+  </a>
+  
+  <a href="https://www.youtube.com/channel/UCSmtkMGjy4a70OV5f5PAn_g">
+    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Laura Valentina Bernate Gordillo's YouTube Channel" height="30" width="30">
+  </a>
+</p>

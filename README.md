@@ -18,6 +18,7 @@
 <br>
 
 
+## Activity
 <div align="center">
     <a href="https://github.com/Sekaitsu/Sekaitsu">
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sekaitsu&layout=compact&langs_count=10&theme=tokyonight&title_color=2895BC&hide=VHDL,Stata&custom_title=Most recently used languages" alt="Most recently used languages">

@@ -27,14 +27,7 @@
 	<img src="https://github.com/h-ssiqueira/h-ssiqueira/blob/output/dist/github-contribution-grid-snake.svg" alt="Snake animation">
 	</a>
 	<br>
-	<details open>
-		<summary>More statistics</summary>
-		<img src="https://github.com/Sekaitsu/Sekaitsu/blob/output/profile-3d-contrib/profile-night-green.svg" alt="profile-3d">
-		<br>
-        <h4 align="Center">Visitor's count :eyes:</h4>
-        <p align="Center"><img src="https://profile-counter.glitch.me/{Sekaitsu}/count.svg" alt="Sekaitsu :: Visitor's Count" /></p>
-
-	</details>
+	
 </div>
 
 ---

@@ -27,7 +27,4 @@
 	<img src="https://github.com/h-ssiqueira/h-ssiqueira/blob/output/dist/github-contribution-grid-snake.svg" alt="Snake animation">
 	</a>
 	<br>
-	
 </div>
-
----

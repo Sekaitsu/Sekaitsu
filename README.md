@@ -17,16 +17,6 @@
 - ⚡ Fun fact: Like classic music, Gamer, Coffe lover.
 <br>
 
-## Activity
-<div align="center">
-    <a href="https://github.com/Sekaitsu/Sekaitsu">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Sekaitsu&hide=issues&show_icons=true&theme=tokyonight&hideborder=true&title_color=2895BC&icon_color=FE0000&include_all_commits=true" alt="GitHub stats">
-	<img src="https://activity-graph.herokuapp.com/graph?username=Sekaitsu&custom_title=Recently%20contributions&hide_border=true&area=true&area_color=2895BC&point=FE0000&line=2895BC&theme=react-dark" alt="Recently contributions graph">
-	<img src="https://github.com/h-ssiqueira/h-ssiqueira/blob/output/dist/github-contribution-grid-snake.svg" alt="Snake animation">
-	</a>
-	<br>
-</div>
-
 <h2 align="Center">You can reach me at</h2>
 
 <p align="Center">

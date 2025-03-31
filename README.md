@@ -6,10 +6,9 @@
 
 ### I am a Software Engineer;
 - 💻 | Junior | Back-end | Software Developer |
-- 🔭 I’m currently working on SisteCredito :grin:
 - 🌱 I’m currently study english to speak better.
 - 👯 I’m looking to collaborate with other Developers. :wink:
-- 🌱 I’m currently learning C#, .NET Core, SQL, Creation of API's, Data Bases.
+- 🌱 I’m currently learning C#, NoSQL, Data Bases.
 - 🤔 I’m looking for help with anything related to what I am currently learning 😅
 - 🧗 I try to: Go beyond and push the boundaries!
 - ⚡ Fun fact: Like classic music, Gamer, Coffe lover.

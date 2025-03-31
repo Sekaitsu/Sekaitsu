@@ -1,5 +1,3 @@
-<img src="https://user-images.githubusercontent.com/70564524/179545140-edbefb6a-bfc5-457b-9c70-373d1b91c9b7.png" />
-
 # Hi there 👋 i'm Laura Valentina Bernate
 
 <br>
@@ -32,4 +30,3 @@
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Laura Valentina Bernate Gordillo's YouTube Channel" height="30" width="30">
   </a>
 </p>
-</div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
